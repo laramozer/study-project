@@ -15,7 +15,7 @@ function Footer() {
     },
     {
       title: "Suporte",
-      links: ["Suporte ao iPhone", "AppleCare+", "iOS 19", "Contato"],
+      links: ["Suporte ao iPhone", "AppleCare+", "iOS 27", "Contato"],
     },
     {
       title: "Apple",
